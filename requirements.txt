@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+PyMuPDF
+tiktoken
+faiss-cpu
+sentence-transformers
+gtts
+langchain
+langchain-community
+serpapi
